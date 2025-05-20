@@ -21,7 +21,7 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 <h3>🖥️ Programming Languages</h3>
 <p>
   <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-  <img title="R" alt="R" width="40px" src="" />
+  <img title="R" alt="R" width="40px" src="Github_Image/icons8-r-project-48.png" />
   <!-- Add more if needed -->
 </p>
 
