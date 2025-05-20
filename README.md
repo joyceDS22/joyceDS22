@@ -54,8 +54,5 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 
 ---
 
-<p align="center">
-  📝 <i>Credits: <a href="https://github.com/joyceDS22">Joyce</a></i>  
-  <br>
-  📅 <i>Last Edited on: 20/05/2025</i>
-</p>
+
+  📝 <i>Credits: <a href="https://github.com/joyceDS22">Joyce</a></i> 
