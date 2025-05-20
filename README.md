@@ -38,8 +38,8 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
 	 
 <div align="center" class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@joyceyeods22">
-    <img src="https://img.icons8.com/doodle/40/000000/medium-new.png" alt="Medium icon">
+  <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@yourusername">
+    <img src="https://iconduck.com/icons/190791/medium" alt="Medium icon" width="40" height="40">
   </a>
 </div>
 
