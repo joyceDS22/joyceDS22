@@ -1,6 +1,6 @@
 <h1 align="center">
   👋 Welcome to my GitHub Project Page 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/xUOxf48t3B1CkYeS5K/giphy.gif" width="40" alt="Hand Animation">
   <img src="https://media.giphy.com/media/xUOxf48t3B1CkYeS5K/giphy.gif" width="40" alt="Hand Animation">
 </h1>
 
