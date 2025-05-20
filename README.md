@@ -25,8 +25,7 @@
 <p>These are some of the major technologies that I use or have worked on in the past:</p>
 
 #### 🖥️ Programming Languages
-<p>
-  <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+  <img align="Left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 </p>
 
 #### 🛠️ Tools
