@@ -61,11 +61,9 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />Connect with Me 🤝
 <p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />Connect with Me 🤝
   </h3>
-<p align="center">
   <a href="https://www.linkedin.com/in/joyceyeo-ds/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
   </a>
 
