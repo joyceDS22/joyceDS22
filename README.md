@@ -1,11 +1,5 @@
 ![Joyce Banner](Github_Image/github-header-image.png)
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Welcome to Joyce's Project Page
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&lines=+Fantasy+of+AI+with+Code;+Dreaming+in+Data,+Painting+with+Algorithms" />
 </p>
