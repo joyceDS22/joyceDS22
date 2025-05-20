@@ -39,7 +39,7 @@
 	 
 <div align="center" class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@yourusername">
-  		<img src="https://www.flaticon.com/free-icons/medium" title="medium icons"> Medium icons created by Freepik-Flaticon</a>
+  		<img src="Github_Image/medium.png"> Medium icons created by Freepik-Flaticon</a>
   
   
 
