@@ -60,11 +60,10 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
   <a href="https://www.linkedin.com/in/joyceyeo-ds/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
   </a>
+  
+### 📜 &nbsp;My Articles
+  [![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)]
 
-  <a href="https://medium.com/@joyceyeods22" target="_blank">
-    <img src="Github_Image/medium.png" width="24px" alt="Medium icon" />
-  </a>
-</p>
 
 ---
 
