@@ -25,10 +25,12 @@
 <p>These are some of the major technologies that I use or have worked on in the past:</p>
 
 #### 🖥️ Programming Languages
+</p>
   <img align="Left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 </p>
 
 #### 🛠️ Tools
+</p>
   <img align="Left" alt="VS Code" width="40px" src="Github_Image/icons8-visual-studio-code-2019-48.png" />
 </p>
 
