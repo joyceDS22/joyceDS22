@@ -1,5 +1,5 @@
-![Joyce Banner]
-Github_Image/github-header-image.png
+![Joyce Banner]Github_Image/github-header-image.png
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   Welcome to Joyce's Project Page
