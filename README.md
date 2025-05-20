@@ -28,7 +28,7 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 <!-- Libraries -->
 <h3>📚Libraries
 ![Numpy](Github_Image/icons8-numpy-48.png)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](Github_Image/icons8-pandas-48.png)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
