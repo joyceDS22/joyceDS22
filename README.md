@@ -39,7 +39,7 @@
 	 
 <div align="center" class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@yourusername">
-    <img src="https://iconduck.com/icons/190791/medium" alt="Medium icon" width="40" height="40">
+    			<img src=https://icons8.com/icons/set/blog--static>
   </a>
 </div>
 
