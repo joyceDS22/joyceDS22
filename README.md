@@ -5,8 +5,6 @@
 <p align="center">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=1000&color=DA70D6&center=true&vCenter=true&width=550&lines=✨+Fantasy+of+AI+with+Code+✨">
-  <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="AI animation">
 </p>
   <br>
 </p>
