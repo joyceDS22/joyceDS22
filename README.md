@@ -35,7 +35,22 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
   <!-- Add more if needed -->
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/joyceDS22">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyceDS22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/joyceDS22">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyceDS22&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+</p>
 ---
+
 <!-- Connect With Me Section -->
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
   Connect with Me 🤝
