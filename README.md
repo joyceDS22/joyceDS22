@@ -50,7 +50,7 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 </p>
 <!-- Framework -->
 <h3>🛠️ </h3>
-<img title="Tensorflow" alt="TS" width="40px" src="https://img.icons8.com/ios/50/000000/flask.png" />
+<img title="Tensorflow" alt="TS" width="40px" src="Github_Image/icons8-tensorflow-48.png" />
 <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios/50/000000/flask.png" />
 <p>
 
