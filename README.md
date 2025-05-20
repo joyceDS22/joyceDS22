@@ -34,7 +34,7 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 <!-- Data Visualization -->
 <h3>💹 Visualiztion </h3>
 <p>
-  <img title="Tableau" alt="VS Code" width="40px" src="" />
+  <img title="Tableau" alt="VS Code" width="40px" src="Github_Image/icons8-tableau-software-48.png" />
   <!-- Add more if needed -->
 </p>
 
