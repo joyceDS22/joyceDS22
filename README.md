@@ -42,12 +42,19 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 </p>
 
 <!-- Tools -->
-<h3>🛠️ Tools</h3>
+<h3>🛠️IDES</h3>
 <p>
   <img title="VS Code" alt="VS Code" width="40px" src="Github_Image/icons8-visual-studio-code-2019-48.png" />
   <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios/50/000000/flask.png" />
   
 </p>
+<!-- Framework -->
+<h3>🛠️ </h3>
+<img title="Tensorflow" alt="TS" width="40px" src="https://img.icons8.com/ios/50/000000/flask.png" />
+<img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios/50/000000/flask.png" />
+<p>
+
+
 
 </p>
 
