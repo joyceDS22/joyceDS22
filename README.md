@@ -37,7 +37,6 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 
 ---
 <!-- Connect With Me Section -->
-<h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
   Connect with Me 🤝
 </h3>
