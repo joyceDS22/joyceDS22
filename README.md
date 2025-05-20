@@ -35,6 +35,8 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
   <!-- Add more if needed -->
 </p>
 
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -49,6 +51,7 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
+
 ---
 
 
