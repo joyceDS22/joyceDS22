@@ -29,7 +29,8 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 <h3>🛠️ Tools</h3>
 <p>
   <img title="VS Code" alt="VS Code" width="40px" src="Github_Image/icons8-visual-studio-code-2019-48.png" />
-  <!-- Add more if needed -->
+  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+
 </p>
 
 <!-- Data visualization  -->
