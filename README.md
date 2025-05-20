@@ -3,11 +3,10 @@
 </h1>
 
 <p align="center">
-  <br><br>
-  <a href="https://github.com/fairyland0926">
+  <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=480&lines=AI+Explorer;Fantasy+of+AI+and+Code;Writing+the+Future+with+AI;Uncovering+Digital+Magic;Adventure;Forever+Curious+%26+Creating">
   </a>
-  <br><br>
+  <br>
 </p>
 
 <p align="center">
