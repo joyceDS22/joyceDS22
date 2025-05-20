@@ -5,19 +5,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&lines=✨+Fantasy+of+AI+with+Code+✨;🚀+Dreaming+in+Data,+Painting+with+Algorithms🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&lines=+Fantasy+of+AI+with+Code;+Dreaming+in+Data,+Painting+with+Algorithms" />
 </p>
-
-
 
 <br>
-
-<p align="center">
-  ✨ Exploring the frontier of Artificial Intelligence  
-  <br>🚀 Building imaginative and intelligent digital worlds  
-  <br>💡 Discovering and uncovering the future of tech  
-</p>
-
 ---
 
 <!-- About Me Section -->
