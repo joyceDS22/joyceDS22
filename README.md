@@ -31,6 +31,14 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
   <!-- Add more if needed -->
 </p>
 
+<!-- Data Visualization -->
+<h3>💹 Visualiztion </h3>
+<p>
+  <img title="Tableau" alt="VS Code" width="40px" src="" />
+  <!-- Add more if needed -->
+</p>
+
+
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
