@@ -19,14 +19,18 @@
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2> 
-##These are some of the major technologies that I use or have worked on in the past: 
+These are some of the major technologies that I use or have worked on in the past: 
 <br>
 
 <p align="center">
 </p>
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
+**Programming Languages**
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px"
+
+**Tools**
+<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
