@@ -30,7 +30,6 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 <p>
   <img title="VS Code" alt="VS Code" width="40px" src="Github_Image/icons8-visual-studio-code-2019-48.png" />
   <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios/50/000000/flask.png" />
-  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 </p>
 
 </p>
