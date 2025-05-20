@@ -20,9 +20,14 @@
 
 <!-- About Me Section -->
 <img align="left" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50px" height="50px" />
-<h2> About Me</h2>
+<h2>👩‍💻 About Me</h2>
 
-<p>These are some of the major technologies that I use or have worked on in the past:</p>
+<p>
+I’m a final-year <strong>Data Science student</strong> with a passion for exploring the world of <strong>Artificial Intelligence</strong> and its expanding ecosystem.  
+Currently, I’m diving deep into various AI techniques — from machine learning to generative models — and constantly updating my projects as I learn and grow.  
+</p>
+
+<p>Here are some of the major technologies and tools I’ve worked with:</p>
 
 <!-- Programming Languages -->
 <h3>🖥️ Programming Languages</h3>
