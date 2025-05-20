@@ -27,10 +27,11 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 
 <!-- Libraries -->
 <h3>📚Libraries
-![Numpy](Github_Image/icons8-numpy-48.png)
-![Pandas](Github_Image/icons8-pandas-48.png)
-![Scikit-learn](Github_Image/scikit-learn.png)
-<!-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white) -->
+<p>
+  <img title="Numpy" alt="Numpy" width="40px" src="Github_Image/icons8-numpy-48.png" />
+  <img title="Pandas" alt="Pandas" width="40px" src="Github_Image/icons8-pandas-48.png" />
+  <img title="Scikit-learn" alt="Scikit-learn" width="40px" src="Github_Image/scikit-learn.png" />
+</p>
 
 <!-- Tools -->
 <h3>🛠️ Tools</h3>
