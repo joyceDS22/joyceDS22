@@ -25,7 +25,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 **Tools**
-
+<img title="VS Code" alt="Vs Studio" width="40px" src="Github_Image/icons8-visual-studio-code-2019-48.png"/>
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
