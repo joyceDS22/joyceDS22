@@ -39,7 +39,7 @@
 	 
 <div align="center" class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@yourusername">
-  		<img src="https://www.iconfinder.com/icons/5305158/blog_medium_medium_logo_icon--v3.png" ></a>
+  		<img src="Github_Image/3721675_medium_icon.png" ></a>
   
   
 
