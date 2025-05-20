@@ -29,8 +29,7 @@
 </p>
 
 #### 🛠️ Tools
-<p>
-  <img title="VS Code" alt="VS Code" width="40px" src="Github_Image/icons8-visual-studio-code-2019-48.png" />
+  <img align="Left" alt="VS Code" width="40px" src="Github_Image/icons8-visual-studio-code-2019-48.png" />
 </p>
 
 ---
