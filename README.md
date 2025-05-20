@@ -27,7 +27,6 @@
 #### 🖥️ Programming Languages
 </p>
   <img align="Left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-</p>
 
 #### 🛠️ Tools
 </p>
