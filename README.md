@@ -36,3 +36,15 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
       <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/joyceyeo-ds/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
+	 
+<div align="center" class="icons-social" style="margin-left: 10px;">
+  <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@joyceyeods22">
+    <img src="https://img.icons8.com/doodle/40/000000/medium-new.png" alt="Medium icon">
+  </a>
+</div>
+
+
+   -----
+Credits: [Joyce](https://github.com/joyceDS22)
+
+Last Edited on: 20/05/2025
