@@ -9,14 +9,16 @@
 </p>
 
 <p align="center">
+✨ Exploring the frontier of Artificial Intelligence  
+🚀 Building imaginative and intelligent digital worlds  
+💡 Discovering, and uncovering the future of tech  
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="AI animation">
 </p>
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
-<p align="center">
-✨ Exploring the frontier of Artificial Intelligence  
-🚀 Building imaginative and intelligent digital worlds  
-💡 Discovering, and uncovering the future of tech  
-</p>
+
