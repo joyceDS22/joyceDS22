@@ -39,7 +39,9 @@
 	 
 <div align="center" class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@yourusername">
-  		<img src="Github_Image/medium.png"> Medium icons created by Freepik-Flaticon</a>
+    <img src="Github_Image/medium.png" width="24" alt="Medium icon"> Medium icon by Freepik - Flaticon
+  </a>
+</div>
   
   
 
