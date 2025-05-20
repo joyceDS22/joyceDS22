@@ -18,9 +18,9 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 <p>Here are some of the major technologies and tools I’ve worked with:</p>
 
 <!-- RDBMS -->
-<h3>🛢️RDBMS e </h3>
+<h3>🛢️RDBMS </h3>
 <p>
-  <img title="MySQL" alt="Mysql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+  <img title="MySQL" alt="Mysql" width="40px" src="Github_Image/mysql.png" />
   <!-- Add more if needed -->
 </p>
 
