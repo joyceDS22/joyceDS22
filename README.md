@@ -51,21 +51,25 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
 </p>
 ---
 
-<!-- Connect With Me Section -->
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
-  Connect with Me 🤝
-</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joyceyeo-ds/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
-  </a>
   
 ### 📜 &nbsp;My Articles
-  [![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)]
-
+  [![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joyceyeods22)
 
 ---
+
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />Connect with Me 🤝
+  </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joyceyeo-ds/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
+  </a>
+
+
+
+
+
 
 
   📝 <i>Credits: <a href="https://github.com/joyceDS22">Joyce</a></i> 
