@@ -20,7 +20,7 @@
 
 <!-- About Me Section -->
 <img align="left" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50px" height="50px" />
-<h2>👩‍💻 About Me</h2>
+<h2>About Me</h2>
 
 <p>
 I’m a final-year <strong>Data Science student</strong> with a passion for exploring the world of <strong>Artificial Intelligence</strong> and its expanding ecosystem.  
