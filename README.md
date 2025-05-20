@@ -25,11 +25,20 @@ Currently, I’m diving deep into various AI techniques — from machine learnin
   <!-- Add more if needed -->
 </p>
 
+<!-- Libraries -->
+<h3>📚Libraries</h3>
+![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+</p>
+
 <!-- Tools -->
 <h3>🛠️ Tools</h3>
 <p>
   <img title="VS Code" alt="VS Code" width="40px" src="Github_Image/icons8-visual-studio-code-2019-48.png" />
   <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios/50/000000/flask.png" />
+  
 </p>
 
 </p>
